@@ -8,6 +8,7 @@ Employees want to get reimbursed for their travel expenses as fast as possible. 
 <li>Seamless Integration with global ERP majors like Oracle & SAP</li>
 <li>Uniquely designed workflow with option to include attachments, expense policy violations</li>
 <li>Faster deployment cycle</li>
+<li>Oracle approved mobile app</li>
 
 # BUSINESS BENEFITS
 
@@ -15,19 +16,11 @@ Employees want to get reimbursed for their travel expenses as fast as possible. 
 <li>Transaction cost savings, compliance cost savings.</li>
 <li>Streamlined business processes and efficient supply chain.</li>
 
-# SITE LISTINGS
+# Screenshot of Expenses Approval for Oracle EBS
 
 <p><a href="http://www.algarytm.com/wp-content/uploads/2017/12/Screenshot_2017-08-24-12-44-39-120_com.ionicframework.smartexpensesapplication556121.png" target="_blank"><img src="http://www.algarytm.com/wp-content/uploads/2017/12/Screenshot_2017-08-24-12-44-39-120_com.ionicframework.smartexpensesapplication556121.png" alt="A screenshot of Kony's Kitchen Sink app running on an Android emulator" title="A screenshot of Algarytm's Smart Expense Approval App running on mobile device" data-canonical-src="http://www.algarytm.com/wp-content/uploads/2017/12/Screenshot_2017-08-24-12-44-39-120_com.ionicframework.smartexpensesapplication556121.png" style="max-width:70%;"></a></p>
 
-# GOOGLE PLAY STORE
-
-<a href="https://play.google.com/store/apps/details?id=com.ionicframework.smartexpensesapplication556121&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">Download from Google Play Store</a>
-
-# ORACLE CLOUD MARKETPLACE
-
-<a href="https://cloudmarketplace.oracle.com/marketplace/en_US/listing/27951977">The app is approved by the Oracle, it is also registered at Oracle Cloud Marketplace</a>
-
-<a href="http://algarytm.com">Know more about other Oracle EBS apps and Get them for Free from our site.</a>
+<a href="http://www.algarytm.com/algarytm-products/smart-expenses-approval/">Know more about our Oracle EBS apps and Get them for Free.</a>
 
 # Why need mobile approvals for Oracle E Business Suite (EBS)
 
