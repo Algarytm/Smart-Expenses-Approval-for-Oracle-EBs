@@ -17,7 +17,7 @@ Employees want to get reimbursed for their travel expenses as fast as possible. 
 
 # SITE LISTINGS
 
-<iframe src="https://marvelapp.com/288ga67?emb=1" width="452" height="550" allowTransparency="true" frameborder="0"></iframe>
+<iframe src= "https://marvelapp.com/288ga67" width="452" height="550" allowTransparency="true" frameborder="0"></iframe>
 
 # GOOGLE PLAY STORE
 
@@ -35,4 +35,4 @@ Mobile approvals are important for companies to run faster and smoother. <a href
 
 About Algarytm
 
-Algarytm is an award winning mobile solutions provider trusted by companies like ABB, Medtronic, Tennant Co, Kraft (Mondelez), Hallmark, and Hunter Douglas, with simple yet transformational solutions that people love to use. By combining ORACLE ERP software and mobile solutions with over 100 plus mobile app project implementation experience, Algarytm helps organizations redefine and reinvent business processes across the wholesale, retail, manufacturing, finance, transportation and logistics industries. Focusing on enterprise mobility with a heavy emphasis on design thinking, performance, and security, Algarytm’s complete suite of 100+ mobile solutions help customers lead the algorithm economy. Algarytm is a proud partner of Capriza, Microsoft/Xamarin, Airwatch, Ionic, GOOD, Oracle and SAP.
+<a href="http://algarytm.com">Algarytm</a> is an award winning mobile solutions provider trusted by companies like ABB, Medtronic, Tennant Co, Kraft (Mondelez), Hallmark, and Hunter Douglas, with simple yet transformational solutions that people love to use. By combining ORACLE ERP software and mobile solutions with over 100 plus mobile app project implementation experience, Algarytm helps organizations redefine and reinvent business processes across the wholesale, retail, manufacturing, finance, transportation and logistics industries. Focusing on enterprise mobility with a heavy emphasis on design thinking, performance, and security, Algarytm’s complete suite of 100+ mobile solutions help customers lead the algorithm economy. Algarytm is a proud partner of Capriza, Microsoft/Xamarin, Airwatch, Ionic, GOOD, Oracle and SAP.
