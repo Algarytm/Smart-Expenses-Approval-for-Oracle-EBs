@@ -17,7 +17,7 @@ Employees want to get reimbursed for their travel expenses as fast as possible. 
 
 # SITE LISTINGS
 
-<iframe src= "https://marvelapp.com/288ga67" width="452" height="550" allowTransparency="true" frameborder="0"></iframe>
+<iframe src="https://marvelapp.com/288ga67?emb=1" width="452" height="550" allowTransparency="true" frameborder="0"></iframe>
 
 # GOOGLE PLAY STORE
 
