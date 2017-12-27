@@ -17,19 +17,19 @@ Employees want to get reimbursed for their travel expenses as fast as possible. 
 
 # SITE LISTINGS
 
-<iframe src="https://marvelapp.com/288ga67?emb=1" width="452" height="550" allowTransparency="true" frameborder="0"></iframe>
+<p><a href="http://www.algarytm.com/wp-content/uploads/2017/12/Screenshot_2017-08-24-12-44-39-120_com.ionicframework.smartexpensesapplication556121.png" target="_blank"><img src="http://www.algarytm.com/wp-content/uploads/2017/12/Screenshot_2017-08-24-12-44-39-120_com.ionicframework.smartexpensesapplication556121.png" alt="A screenshot of Kony's Kitchen Sink app running on an Android emulator" title="A screenshot of Algarytm's Smart Expense Approval App running on mobile device" data-canonical-src="http://www.algarytm.com/wp-content/uploads/2017/12/Screenshot_2017-08-24-12-44-39-120_com.ionicframework.smartexpensesapplication556121.png" style="max-width:70%;"></a></p>
 
 # GOOGLE PLAY STORE
 
 <a href="https://play.google.com/store/apps/details?id=com.ionicframework.smartexpensesapplication556121&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">Download from Google Play Store</a>
 
-ORACLE CLOUD MARKETPLACE
+# ORACLE CLOUD MARKETPLACE
 
 <a href="https://cloudmarketplace.oracle.com/marketplace/en_US/listing/27951977">The app is approved by the Oracle, it is also registered at Oracle Cloud Marketplace</a>
 
 <a href="http://algarytm.com">Know more about other Oracle EBS apps and Get them for Free from our site.</a>
 
-Why need mobile approvals for Oracle E Business Suite (EBS)
+# Why need mobile approvals for Oracle E Business Suite (EBS)
 
 Mobile approvals are important for companies to run faster and smoother. <a href="http://www.algarytm.com/need-business-mobile-app-approvals/">Know the benefits from mobilizing Oracle EBS.</a>
 
